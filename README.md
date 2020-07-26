@@ -2,9 +2,9 @@
 
 (he/him)
 
-I am a Computer Engineering undergraduate at @ubc, interested in machine learning applications, particularly variational inference and neural networks for signal data 
+I am a Computer Engineering undergraduate at UBC, interested in machine learning applications, particularly variational inference and neural networks for signal data 
 
-Currently a SDE intern @amzn
+Currently a SDE intern at Amazon
 
 [Drop me a line](dryden.wiebe@gmail.com)
 
