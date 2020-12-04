@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Dryden
+### Hi there 👋 I'm Dryden (he/him)
 
-I am a Computer Engineering undergraduate at UBC, interested in machine learning applications, particularly variational inference and neural networks for high dimensional signal data 
+I am a Computer Engineering undergraduate at UBC.
 
 [Drop me a line](dryden.wiebe@gmail.com)
 
