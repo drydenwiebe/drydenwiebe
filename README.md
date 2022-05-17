@@ -2,8 +2,6 @@
 
 I am a Computer Engineering undergraduate at UBC.
 
-[Drop me a line](dryden.wiebe@gmail.com)
-
 <!--
 **drydenwiebe/drydenwiebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
